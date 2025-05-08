@@ -3,10 +3,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Banner animado style"/>
 </p>
 
-<h1 align="center">Fala aí, eu sou o [Seu Nome]!</h1>
+<h1 align="center">Fala aí, eu sou o Sperandio!</h1>
 
 <p align="center">
-  Engenheiro de software, caçador de bugs e domador de terminal.
+  , caçador de bugs e domador de terminal.
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroluc4as&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
