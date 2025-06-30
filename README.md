@@ -6,27 +6,24 @@
 <h1 align="center">Fala aí, eu sou o Sperandio!</h1>
 
 <p align="center">
-  , caçador de bugs e domador de terminal.
+  , --------------------------.
 </p>
 
 ---
 
 ### Sobre mim
 
-- Desenvolvedor que compila até café
-- Adora resolver treta com código
-- Tem mais projetos que tempo pra terminá-los
-- Especialista em Googlar erro e parecer gênio
+- 
+- 
+- 
+- 
 
 ---
 
 ### Techs que carrego na mochila
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![<blank>]([https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3i_6TLZmbhXqepbRoJDPEYarnew7FTAEr72_7j9nIDz6R69zpSkvvtQ8mcD4WoaKWcw&usqp=CAU))
+
 
 ---
 
@@ -46,12 +43,12 @@
 
 ### Bora trocar uma ideia?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-usuario-aqui)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://instagram.com/seu-usuario-aqui)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:seu-email@gmail.com)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-usuario-aqui](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3i_6TLZmbhXqepbRoJDPEYarnew7FTAEr72_7j9nIDz6R69zpSkvvtQ8mcD4WoaKWcw&usqp=CAU))
+[![Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3i_6TLZmbhXqepbRoJDPEYarnew7FTAEr72_7j9nIDz6R69zpSkvvtQ8mcD4WoaKWcw&usqp=CAU)
+[![Email]([https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:seu-email@gmail.com](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3i_6TLZmbhXqepbRoJDPEYarnew7FTAEr72_7j9nIDz6R69zpSkvvtQ8mcD4WoaKWcw&usqp=CAU))
 
 ---
 
 <p align="center">
-  Feito com café, código e um pouquinho de caos.
+  --------
 </p>
