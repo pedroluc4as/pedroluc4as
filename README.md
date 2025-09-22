@@ -37,7 +37,7 @@
 
 ### Fun fact
 
-> Quando não estou codando, provavelmente tô... pensando em código mesmo.
+> 
 
 ---
 
