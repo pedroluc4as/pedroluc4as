@@ -22,7 +22,7 @@
 
 ### Techs que carrego na mochila
 
-![<blank>]([https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3i_6TLZmbhXqepbRoJDPEYarnew7FTAEr72_7j9nIDz6R69zpSkvvtQ8mcD4WoaKWcw&usqp=CAU))
+![<blank>]([](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3i_6TLZmbhXqepbRoJDPEYarnew7FTAEr72_7j9nIDz6R69zpSkvvtQ8mcD4WoaKWcw&usqp=CAU))
 
 
 ---
