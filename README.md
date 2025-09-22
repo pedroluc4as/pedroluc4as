@@ -44,8 +44,6 @@
 ### Bora trocar uma ideia?
 
 [![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pedroluc4as](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3i_6TLZmbhXqepbRoJDPEYarnew7FTAEr72_7j9nIDz6R69zpSkvvtQ8mcD4WoaKWcw&usqp=CAU))
-[![Instagram]()
-[![Email]([https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:seu-email@gmail.com](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3i_6TLZmbhXqepbRoJDPEYarnew7FTAEr72_7j9nIDz6R69zpSkvvtQ8mcD4WoaKWcw&usqp=CAU))
 
 ---
 
