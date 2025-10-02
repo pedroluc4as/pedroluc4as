@@ -13,18 +13,18 @@
 
 ### Sobre mim
 
-- Apaixonado por tecnologia, programação e resolver problemas na unha 💻⚡  
-- Sempre aprendendo e explorando novas ferramentas e linguagens  
-- Curto estudar lógica, eletrônica e tudo que envolve engenharia de computação  
+- Estudante de Engenharia de Computação sempre buscando evoluir 💡  
+- Conhecimento em C, um pouco de C++ e o básico de Python  
+- Curto estudar lógica, eletrônica e sistemas de computação  
 - Café + código = vida ☕👨‍💻  
 
 ---
 
 ### Techs que carrego na mochila
 
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -40,7 +40,7 @@
 
 ### Fun fact
 
-> Sempre que resolvo um bug às 3 da manhã, parece que virei hacker de filme 🎬👾  
+> Às vezes passo mais tempo arrumando erro de compilação do que programando de fato 😅  
 
 ---
 
