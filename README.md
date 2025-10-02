@@ -3,17 +3,17 @@
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%" alt="Banner animado style"/>
 </p>
 
-<h1 align="center">Fala aí, eu sou o Sperandio! 👋</h1>
+<h1 align="center">Fala aí, eu sou o Pedro Sperandio! 👋</h1>
 
 <p align="center">
-  , --------------------------.
+ *ps ainda vou colocar algo aqui, isso aqui ta em construção.
 </p>
 
 ---
 
 ### Sobre mim
 
-- Estudante de Engenharia de Computação sempre buscando evoluir 💡  
+- Estudante de Engenharia de Computação sempre buscando evoluir 
 - Conhecimento em C, um pouco de C++ e o básico de Python  
 - Curto estudar lógica, eletrônica e sistemas de computação  
 - Café + código = vida ☕👨‍💻  
@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  --------
+  👷‍♂️🏗🚧
 </p>
