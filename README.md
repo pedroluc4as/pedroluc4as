@@ -6,7 +6,7 @@
 <h1 align="center">Fala aí, eu sou o Pedro Sperandio! 👋</h1>
 
 <p align="center">
- *ps ainda vou colocar algo aqui, isso aqui ta em construção.
+ *.
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ### Sobre mim
 
 - Estudante de Engenharia de Computação sempre buscando evoluir 
-- Conhecimento em C, um pouco de C++ e o básico de Python  
+- Conhecimento em C, C++, HTML, CSS, buscando me aperfeiçoar em cada uma e conhecendo novas linguagens como Python
 - Curto estudar lógica, eletrônica e sistemas de computação  
 - Café + código = vida ☕👨‍💻  
 
