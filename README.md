@@ -14,7 +14,7 @@
 ### Sobre mim
 
 - Estudante de Engenharia de Computação sempre buscando evoluir 
-- Conhecimento em C, C++, HTML, CSS, buscando me aperfeiçoar em cada uma e conhecendo novas linguagens como Python
+- Conhecimento em C, C++, HTML, buscando me aperfeiçoar em cada uma e conhecendo novas linguagens como Python
 - Curto estudar lógica, eletrônica e sistemas de computação  
 - Café + código = vida ☕👨‍💻  
 
