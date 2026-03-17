@@ -24,7 +24,7 @@
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+/*![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)*/
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
