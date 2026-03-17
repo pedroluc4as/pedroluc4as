@@ -1,4 +1,3 @@
-<!-- Banner ou GIF insano aqui -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%" alt="Banner animado style"/>
 </p>
@@ -6,7 +5,7 @@
 <h1 align="center">Fala aí, eu sou o Pedro Sperandio! 👋</h1>
 
 <p align="center">
- *.
+ 
 </p>
 
 ---
@@ -24,7 +23,6 @@
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-/*![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)*/
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
