@@ -13,8 +13,8 @@
 ### Sobre mim
 
 - Estudante de Engenharia de Computação sempre buscando evoluir 
-- Conhecimento em C, C++, HTML, buscando me aperfeiçoar em cada uma e conhecendo novas linguagens como Python
-- Curto estudar lógica, eletrônica e sistemas de computação  
+- Conhecimento em C, C++, buscando me aperfeiçoar em cada uma e conhecendo algumas linguagens novas
+- Curto estudar cibersegurança sou muito curioso com tudo sobre sistemas de computação e a computação como um todo  
 - Café + código = vida ☕👨‍💻  
 
 ---
@@ -38,7 +38,7 @@
 
 ### Fun fact
 
-> Às vezes passo mais tempo arrumando erro de compilação do que programando de fato 😅  
+> Às vezes passo mais tempo arrumando erro de compilação e tentando aprender algo novo do que programando de fato 😅  
 
 ---
 
